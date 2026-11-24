@@ -1,0 +1,6 @@
+{
+  "name": "KOOLIE",
+  "description": "KOOLIE is a static worker-booking marketplace connecting households in Kerala with local and migrant daily-wage workers and skilled tradespeople.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
